@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopOrganizer", "DesktopOrganizer.csproj", "{FD6E3F8A-B806-4E04-96EE-DF097CA6312B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6E3F8A-B806-4E04-96EE-DF097CA6312B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6E3F8A-B806-4E04-96EE-DF097CA6312B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6E3F8A-B806-4E04-96EE-DF097CA6312B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6E3F8A-B806-4E04-96EE-DF097CA6312B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF730686-E734-4C8C-B747-74FAC6D43146}
+	EndGlobalSection
+EndGlobal
